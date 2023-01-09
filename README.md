@@ -1,5 +1,7 @@
 # specomatic
 
+[![cljdoc badge](https://cljdoc.org/badge/com.primeteach/specomatic)](https://cljdoc.org/d/com.primeteach/specomatic)
+
 A Clojure(script) library to define entities and their relationships via clojure.spec, and to ask questions about them.
 
 See [specomatic-db](https://github.com/primeteach/specomatic-db) database tooling for a concrete library building on this.
