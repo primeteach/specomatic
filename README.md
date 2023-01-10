@@ -203,9 +203,9 @@ Entity type definitions have the following shape:
  :required-fields     #{:movie/title :movie/release-year}}
 ```
 
-### Field type definitions
+### Field definitions
 
-Simple (non-relational) field type definitions have the following shape:
+Simple (non-relational) field definitions have the following shape:
 
 ```clojure
 {:kind      ::sf/simple
